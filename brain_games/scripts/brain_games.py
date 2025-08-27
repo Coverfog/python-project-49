@@ -6,5 +6,6 @@ def main():
     user = welcome_user()
     print(f"Hello, {user}!")
 
+
 if __name__ == '__main__':
     main()
