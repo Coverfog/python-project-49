@@ -1,4 +1,4 @@
-### SonarQube analysis status
+### SonarQube analysis status:
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Coverfog_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Coverfog_python-project-49)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Coverfog_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Coverfog_python-project-49)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Coverfog_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Coverfog_python-project-49)
