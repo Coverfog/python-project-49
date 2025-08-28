@@ -28,3 +28,7 @@ make build
 ```bash
 make package-install
 ```
+
+### Brain-even game
+
+[![asciicast](https://asciinema.org/a/736264.svg)](https://asciinema.org/a/736264)
