@@ -32,3 +32,7 @@ make package-install
 ### Brain-even game
 
 [![asciicast](https://asciinema.org/a/736264.svg)](https://asciinema.org/a/736264)
+
+### Brain-calc game
+
+[![asciicast](https://asciinema.org/a/736289.svg)](https://asciinema.org/a/736289)
