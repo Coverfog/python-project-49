@@ -36,3 +36,7 @@ make package-install
 ### Brain-calc game
 
 [![asciicast](https://asciinema.org/a/736289.svg)](https://asciinema.org/a/736289)
+
+### Brain-gcd game
+
+[![asciicast](https://asciinema.org/a/736443.svg)](https://asciinema.org/a/736443)
