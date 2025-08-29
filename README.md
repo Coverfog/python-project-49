@@ -44,3 +44,7 @@ make package-install
 ### Brain-progression game
 
 [![asciicast](https://asciinema.org/a/736448.svg)](https://asciinema.org/a/736448)
+
+### Brain-prime game
+
+[![asciicast](https://asciinema.org/a/736453.svg)](https://asciinema.org/a/736453)
