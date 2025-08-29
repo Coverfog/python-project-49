@@ -15,6 +15,10 @@
 
 [![Actions Status](https://github.com/Coverfog/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Coverfog/python-project-49/actions)
 
+### Description
+
+A small set of logical games to improve your mathematical thinking
+
 ### Setup
 
 ```bash
