@@ -1,7 +1,10 @@
 import prompt
 
+from brain_games.cli import welcome_user
 
-def start_game(game, user):
+
+def start_game(game):
+    user = welcome_user()
     acc = 0
 
     while acc < 3:
