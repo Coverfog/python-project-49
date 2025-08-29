@@ -40,3 +40,7 @@ make package-install
 ### Brain-gcd game
 
 [![asciicast](https://asciinema.org/a/736443.svg)](https://asciinema.org/a/736443)
+
+### Brain-progression game
+
+[![asciicast](https://asciinema.org/a/736448.svg)](https://asciinema.org/a/736448)
